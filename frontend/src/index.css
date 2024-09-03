@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radial-luna {
+  background: radial-gradient(circle, #ffb4d9 0%, #ffb4d9 , #ff69b4 80%);
+}
+
+.radial-max {
+  background: radial-gradient(circle, #c9ebff  0%, #c9ebff 5%, #90d7ff 80%);
+}
